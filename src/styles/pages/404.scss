@@ -1,0 +1,44 @@
+@import "../base/reset.scss";
+
+@import "../base/reset.scss";
+
+#notfound {
+  section {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    padding: 4rem;
+    text-align: center;
+    background-color: #121212;
+  }
+
+  .notfound-container {
+    max-width: 400px;
+    color: #e0e0e0;
+  }
+
+  .notfound-container h1 {
+    font-size: 3rem;
+    font-weight: 700;
+    margin-bottom: 1rem;
+    color: #f5f5f5;
+  }
+
+  .notfound-container p {
+    color: #bbbbbb;
+    margin-bottom: 2rem;
+    line-height: 1.5;
+  }
+
+  .notfound-button {
+    background-color: #121212;
+    padding: 8px 12px;
+    border: 1px solid #494545;
+    border-radius: 12px;
+    a {
+      text-decoration: none;
+      color: #bbbbbb !important;
+    }
+  }
+}

@@ -1,0 +1,288 @@
+[
+  {
+    "id": "c1",
+    "title": "Appartement cosy \u00e0 Marseille",
+    "location": "Marseille, France",
+    "pictures": [
+      "https://source.unsplash.com/800x600/?apartment",
+      "https://source.unsplash.com/800x600/?apartment"
+    ],
+    "tags": ["Vue mer", "Climatis\u00e9"],
+    "host": {
+      "name": "Claire Dupont",
+      "picture": "https://randomuser.me/api/portraits/women/10.jpg"
+    },
+    "rating": "4",
+    "description": "Un charmant appartement situ\u00e9 proche du Vieux-Port.",
+    "equipments": ["Wifi", "Cuisine", "T\u00e9l\u00e9vision", "Climatisation"]
+  },
+  {
+    "id": "c2",
+    "title": "Studio moderne \u00e0 Lyon",
+    "location": "Lyon, France",
+    "pictures": [
+      "https://source.unsplash.com/800x600/?studio",
+      "https://source.unsplash.com/800x600/?studio"
+    ],
+    "tags": ["Centre-ville", "Animaux autoris\u00e9s"],
+    "host": {
+      "name": "Julien Martin",
+      "picture": "https://randomuser.me/api/portraits/men/11.jpg"
+    },
+    "rating": "3",
+    "description": "Studio lumineux et bien \u00e9quip\u00e9, id\u00e9al pour un court s\u00e9jour.",
+    "equipments": ["Wifi", "Chauffage", "Cuisine \u00e9quip\u00e9e"]
+  },
+  {
+    "id": "c3",
+    "title": "Loft design \u00e0 Bordeaux",
+    "location": "Bordeaux, France",
+    "pictures": [
+      "https://source.unsplash.com/800x600/?loft",
+      "https://source.unsplash.com/800x600/?loft"
+    ],
+    "tags": ["Design", "Spacieux"],
+    "host": {
+      "name": "Sophie Moreau",
+      "picture": "https://randomuser.me/api/portraits/women/12.jpg"
+    },
+    "rating": "5",
+    "description": "Loft spacieux avec une d\u00e9co moderne et \u00e9pur\u00e9e.",
+    "equipments": ["Machine \u00e0 laver", "Wifi", "T\u00e9l\u00e9vision"]
+  },
+  {
+    "id": "c4",
+    "title": "Maison de charme en Bretagne",
+    "location": "Quimper, France",
+    "pictures": [
+      "https://source.unsplash.com/800x600/?house",
+      "https://source.unsplash.com/800x600/?house"
+    ],
+    "tags": ["Campagne", "Famille"],
+    "host": {
+      "name": "Luc Bernard",
+      "picture": "https://randomuser.me/api/portraits/men/13.jpg"
+    },
+    "rating": "5",
+    "description": "Maison id\u00e9ale pour des vacances en famille en pleine nature.",
+    "equipments": ["Jardin", "Cuisine", "Barbecue", "Chemin\u00e9e"]
+  },
+  {
+    "id": "c5",
+    "title": "Appartement avec terrasse \u00e0 Nice",
+    "location": "Nice, France",
+    "pictures": [
+      "https://source.unsplash.com/800x600/?terrace",
+      "https://source.unsplash.com/800x600/?terrace"
+    ],
+    "tags": ["Terrasse", "Vue mer"],
+    "host": {
+      "name": "Elisa Roussel",
+      "picture": "https://randomuser.me/api/portraits/women/14.jpg"
+    },
+    "rating": "4",
+    "description": "Appartement avec une magnifique terrasse vue mer.",
+    "equipments": ["Wifi", "Cuisine", "Climatisation"]
+  },
+  {
+    "id": "c6",
+    "title": "Cabane dans les bois",
+    "location": "Annecy, France",
+    "pictures": [
+      "https://source.unsplash.com/800x600/?cabin",
+      "https://source.unsplash.com/800x600/?cabin"
+    ],
+    "tags": ["Nature", "Isol\u00e9"],
+    "host": {
+      "name": "Marc Lef\u00e8vre",
+      "picture": "https://randomuser.me/api/portraits/men/15.jpg"
+    },
+    "rating": "5",
+    "description": "Cabane rustique pour une retraite au calme.",
+    "equipments": [
+      "Po\u00eale \u00e0 bois",
+      "Eau chaude",
+      "Toilettes s\u00e8ches"
+    ]
+  },
+  {
+    "id": "c7",
+    "title": "Appartement lumineux \u00e0 Strasbourg",
+    "location": "Strasbourg, France",
+    "pictures": [
+      "https://source.unsplash.com/800x600/?city",
+      "https://source.unsplash.com/800x600/?city"
+    ],
+    "tags": ["Centre-ville", "Balcon"],
+    "host": {
+      "name": "Camille Dubois",
+      "picture": "https://randomuser.me/api/portraits/women/16.jpg"
+    },
+    "rating": "3",
+    "description": "Appartement spacieux avec balcon ensoleill\u00e9.",
+    "equipments": [
+      "Wifi",
+      "T\u00e9l\u00e9vision",
+      "Cuisine",
+      "Machine \u00e0 caf\u00e9"
+    ]
+  },
+  {
+    "id": "c8",
+    "title": "Maison avec piscine \u00e0 Aix-en-Provence",
+    "location": "Aix-en-Provence, France",
+    "pictures": [
+      "https://source.unsplash.com/800x600/?pool",
+      "https://source.unsplash.com/800x600/?pool"
+    ],
+    "tags": ["Piscine", "Luxe"],
+    "host": {
+      "name": "Henri Laurent",
+      "picture": "https://randomuser.me/api/portraits/men/17.jpg"
+    },
+    "rating": "4",
+    "description": "Grande maison avec piscine et jardin arbor\u00e9.",
+    "equipments": [
+      "Piscine",
+      "Cuisine \u00e9quip\u00e9e",
+      "Climatisation",
+      "Lave-vaisselle"
+    ]
+  },
+  {
+    "id": "c9",
+    "title": "Studio \u00e9tudiant \u00e0 Lille",
+    "location": "Lille, France",
+    "pictures": [
+      "https://source.unsplash.com/800x600/?student-room",
+      "https://source.unsplash.com/800x600/?student-room"
+    ],
+    "tags": ["Pratique", "\u00c9conomique"],
+    "host": {
+      "name": "Anna Petit",
+      "picture": "https://randomuser.me/api/portraits/women/18.jpg"
+    },
+    "rating": "3",
+    "description": "Studio compact, parfait pour les \u00e9tudiants.",
+    "equipments": ["Wifi", "Kitchenette", "Chauffage"]
+  },
+  {
+    "id": "c10",
+    "title": "Chalet alpin \u00e0 Chamonix",
+    "location": "Chamonix, France",
+    "pictures": [
+      "https://source.unsplash.com/800x600/?chalet",
+      "https://source.unsplash.com/800x600/?chalet"
+    ],
+    "tags": ["Ski", "Montagne"],
+    "host": {
+      "name": "Olivier Roche",
+      "picture": "https://randomuser.me/api/portraits/men/19.jpg"
+    },
+    "rating": "5",
+    "description": "Chalet typique avec vue sur les montagnes enneig\u00e9es.",
+    "equipments": ["Chemin\u00e9e", "Sauna", "Wifi", "Cuisine"]
+  },
+  {
+    "id": "c11",
+    "title": "Appartement chic \u00e0 Paris",
+    "location": "Paris, France",
+    "pictures": [
+      "https://source.unsplash.com/800x600/?paris",
+      "https://source.unsplash.com/800x600/?paris"
+    ],
+    "tags": ["Tour Eiffel", "Design"],
+    "host": {
+      "name": "Nina Garnier",
+      "picture": "https://randomuser.me/api/portraits/women/20.jpg"
+    },
+    "rating": "4",
+    "description": "Appartement raffin\u00e9 \u00e0 deux pas de la Tour Eiffel.",
+    "equipments": ["Climatisation", "Wifi", "Cuisine moderne", "Ascenseur"]
+  },
+  {
+    "id": "c12",
+    "title": "Maison familiale \u00e0 Nantes",
+    "location": "Nantes, France",
+    "pictures": [
+      "https://source.unsplash.com/800x600/?garden",
+      "https://source.unsplash.com/800x600/?garden"
+    ],
+    "tags": ["Famille", "Jardin"],
+    "host": {
+      "name": "Pauline Marchand",
+      "picture": "https://randomuser.me/api/portraits/men/21.jpg"
+    },
+    "rating": "5",
+    "description": "Maison spacieuse id\u00e9ale pour un s\u00e9jour en famille.",
+    "equipments": ["Jeux enfants", "Wifi", "Cuisine", "TV"]
+  },
+  {
+    "id": "c13",
+    "title": "Appartement minimaliste \u00e0 Montpellier",
+    "location": "Montpellier, France",
+    "pictures": [
+      "https://source.unsplash.com/800x600/?minimalist",
+      "https://source.unsplash.com/800x600/?minimalist"
+    ],
+    "tags": ["Minimaliste", "Clair"],
+    "host": {
+      "name": "Tom Besson",
+      "picture": "https://randomuser.me/api/portraits/women/22.jpg"
+    },
+    "rating": "5",
+    "description": "Appartement moderne \u00e0 la d\u00e9co \u00e9pur\u00e9e.",
+    "equipments": ["Cuisine \u00e9quip\u00e9e", "Wifi", "Machine \u00e0 laver"]
+  },
+  {
+    "id": "c14",
+    "title": "Riad traditionnel \u00e0 Marrakech",
+    "location": "Marrakech, Maroc",
+    "pictures": [
+      "https://source.unsplash.com/800x600/?morocco",
+      "https://source.unsplash.com/800x600/?morocco"
+    ],
+    "tags": ["Exotique", "Traditionnel"],
+    "host": {
+      "name": "Yasmine A\u00eft",
+      "picture": "https://randomuser.me/api/portraits/men/23.jpg"
+    },
+    "rating": "3",
+    "description": "Riad charmant dans la m\u00e9dina avec patio central.",
+    "equipments": ["Terrasse", "Climatisation", "Wifi"]
+  },
+  {
+    "id": "c15",
+    "title": "Cabane sur pilotis \u00e0 Arcachon",
+    "location": "Arcachon, France",
+    "pictures": [
+      "https://source.unsplash.com/800x600/?arcachon",
+      "https://source.unsplash.com/800x600/?arcachon"
+    ],
+    "tags": ["Original", "Nature"],
+    "host": {
+      "name": "Jean-Pierre No\u00ebl",
+      "picture": "https://randomuser.me/api/portraits/women/24.jpg"
+    },
+    "rating": "4",
+    "description": "Cabane insolite avec vue sur le bassin d'Arcachon.",
+    "equipments": ["Eau chaude", "Electricit\u00e9", "Terrasse"]
+  },
+  {
+    "id": "c16",
+    "title": "Appartement r\u00e9tro \u00e0 Toulouse",
+    "location": "Toulouse, France",
+    "pictures": [
+      "https://source.unsplash.com/800x600/?retro",
+      "https://source.unsplash.com/800x600/?retro"
+    ],
+    "tags": ["Vintage", "Charmant"],
+    "host": {
+      "name": "Laura Perrin",
+      "picture": "https://randomuser.me/api/portraits/men/25.jpg"
+    },
+    "rating": "5",
+    "description": "Appartement color\u00e9 au style r\u00e9tro ann\u00e9es 70.",
+    "equipments": ["T\u00e9l\u00e9vision", "Cuisine", "Wifi", "Chauffage"]
+  }
+]

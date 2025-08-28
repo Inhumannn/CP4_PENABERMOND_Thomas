@@ -1,0 +1,29 @@
+@import "../base/reset.scss";
+@import "../layout/header.scss";
+@import "../layout/footer.scss";
+@import "../components/cards.scss";
+
+#home {
+  #tagline {
+    background: $background;
+    > div {
+      max-width: 1280px;
+      padding: $space-lg;
+      margin: auto;
+      text-align: center;
+      p {
+        color: $second-color;
+      }
+    }
+  }
+  #card-container {
+    max-width: 980px;
+    padding: $space-md;
+    margin: auto;
+    > div {
+      display: grid;
+      grid-template-columns: repeat(3, 1fr);
+      gap: 24px;
+    }
+  }
+}

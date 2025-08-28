@@ -1,0 +1,14 @@
+@import "../base/variables.scss";
+
+header {
+  max-width: 1280px;
+  padding: $space-xs;
+  margin: auto;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  ul {
+    display: flex;
+    gap: 24px;
+  }
+}

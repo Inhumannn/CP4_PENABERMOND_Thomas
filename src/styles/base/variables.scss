@@ -1,0 +1,28 @@
+@import url("https://fonts.googleapis.com/css2?family=Inter:ital,opsz,wght@0,14..32,100..900;1,14..32,100..900&family=Pacifico&display=swap");
+
+$font-logo: "Pacifico", cursive;
+$font-title: "Inter", sans-serif;
+$font-main: "Inter", sans-serif;
+
+$title-color: #ff6b6b;
+$nav-color: #374151;
+$main-color: #1f2937;
+$second-color: #4b5563;
+$third-color: #ffffff;
+$card-box-shadow: 0px 2px 4px -2px #0000001a;
+$tag-color: linear-gradient(116.22deg, #667eea 0%, #764ba2 100%);
+$background: linear-gradient(100.62deg, #f5f7fa 0%, #c3cfe2 100%);
+$background-footer: #1f2937;
+
+$w-logo: clamp(28px, 5vw, 30px);
+$fz-title: clamp(50px, 4vw, 90px);
+$fw-title: 700;
+$fz-title2: clamp(28px, 4.5vw, 40px);
+$fz-title3: clamp(20px, 3vw, 22px);
+$fz-p: clamp(16px, 1.5vw, 20px);
+$w-icon: clamp(18px, 2.5vw, 24px);
+
+$space-xs: 12px 15px;
+$space-sm: 30px 15px;
+$space-md: 75px 15px;
+$space-lg: 100px 15px;

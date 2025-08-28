@@ -1,0 +1,41 @@
+@import "../base/variables.scss";
+html {
+  scroll-behavior: smooth !important;
+}
+body {
+  margin: 0;
+  padding: 0;
+}
+h1,
+h2,
+h3 {
+  font-weight: $fw-title;
+}
+h1 {
+  font-family: $font-logo;
+  font-size: $fz-title;
+  color: $title-color;
+}
+h2 {
+  font-family: $font-title;
+  font-size: $fz-title2;
+  font-weight: $fw-title;
+}
+h3 {
+  font-family: $font-title;
+  font-size: $fz-title3;
+}
+p,
+a {
+  font-family: $font-main;
+  font-size: $fz-p;
+}
+a {
+  text-decoration: none;
+  transition: all 0.2s ease-in-out;
+}
+.logo {
+  font-family: $font-logo;
+  font-size: $w-logo;
+  font-weight: 600;
+}

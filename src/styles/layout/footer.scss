@@ -1,0 +1,25 @@
+@import "../base/variables.scss";
+
+footer {
+  background-color: $background-footer;
+  color: $third-color;
+  > div {
+    max-width: 1280px;
+    padding: $space-sm;
+    margin: auto;
+    > div:first-child {
+      padding: $space-sm;
+      display: grid;
+      grid-template-columns: repeat(3, 1fr);
+      gap: 50px;
+    }
+    > div:last-child {
+      border-top: 1px solid $second-color;
+      padding: $space-xs;
+      text-align: center;
+    }
+  }
+  > button {
+    padding: 0 !important;
+  }
+}
