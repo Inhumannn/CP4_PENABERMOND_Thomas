@@ -3,10 +3,7 @@
     "id": "c1",
     "title": "Appartement cosy \u00e0 Marseille",
     "location": "Marseille, France",
-    "pictures": [
-      "https://source.unsplash.com/800x600/?apartment",
-      "https://source.unsplash.com/800x600/?apartment"
-    ],
+    "pictures": "./img/img.jpg",
     "tags": ["Vue mer", "Climatis\u00e9"],
     "host": {
       "name": "Claire Dupont",
@@ -20,10 +17,7 @@
     "id": "c2",
     "title": "Studio moderne \u00e0 Lyon",
     "location": "Lyon, France",
-    "pictures": [
-      "https://source.unsplash.com/800x600/?studio",
-      "https://source.unsplash.com/800x600/?studio"
-    ],
+    "pictures": "./img/img.jpg",
     "tags": ["Centre-ville", "Animaux autoris\u00e9s"],
     "host": {
       "name": "Julien Martin",
@@ -37,10 +31,7 @@
     "id": "c3",
     "title": "Loft design \u00e0 Bordeaux",
     "location": "Bordeaux, France",
-    "pictures": [
-      "https://source.unsplash.com/800x600/?loft",
-      "https://source.unsplash.com/800x600/?loft"
-    ],
+    "pictures": "./img/img.jpg",
     "tags": ["Design", "Spacieux"],
     "host": {
       "name": "Sophie Moreau",
@@ -54,10 +45,7 @@
     "id": "c4",
     "title": "Maison de charme en Bretagne",
     "location": "Quimper, France",
-    "pictures": [
-      "https://source.unsplash.com/800x600/?house",
-      "https://source.unsplash.com/800x600/?house"
-    ],
+    "pictures": "./img/img.jpg",
     "tags": ["Campagne", "Famille"],
     "host": {
       "name": "Luc Bernard",
@@ -71,10 +59,7 @@
     "id": "c5",
     "title": "Appartement avec terrasse \u00e0 Nice",
     "location": "Nice, France",
-    "pictures": [
-      "https://source.unsplash.com/800x600/?terrace",
-      "https://source.unsplash.com/800x600/?terrace"
-    ],
+    "pictures": "./img/img.jpg",
     "tags": ["Terrasse", "Vue mer"],
     "host": {
       "name": "Elisa Roussel",
@@ -88,10 +73,7 @@
     "id": "c6",
     "title": "Cabane dans les bois",
     "location": "Annecy, France",
-    "pictures": [
-      "https://source.unsplash.com/800x600/?cabin",
-      "https://source.unsplash.com/800x600/?cabin"
-    ],
+    "pictures": "./img/img.jpg",
     "tags": ["Nature", "Isol\u00e9"],
     "host": {
       "name": "Marc Lef\u00e8vre",
@@ -109,10 +91,7 @@
     "id": "c7",
     "title": "Appartement lumineux \u00e0 Strasbourg",
     "location": "Strasbourg, France",
-    "pictures": [
-      "https://source.unsplash.com/800x600/?city",
-      "https://source.unsplash.com/800x600/?city"
-    ],
+    "pictures": "./img/img.jpg",
     "tags": ["Centre-ville", "Balcon"],
     "host": {
       "name": "Camille Dubois",
@@ -131,10 +110,7 @@
     "id": "c8",
     "title": "Maison avec piscine \u00e0 Aix-en-Provence",
     "location": "Aix-en-Provence, France",
-    "pictures": [
-      "https://source.unsplash.com/800x600/?pool",
-      "https://source.unsplash.com/800x600/?pool"
-    ],
+    "pictures": "./img/img.jpg",
     "tags": ["Piscine", "Luxe"],
     "host": {
       "name": "Henri Laurent",
@@ -153,10 +129,7 @@
     "id": "c9",
     "title": "Studio \u00e9tudiant \u00e0 Lille",
     "location": "Lille, France",
-    "pictures": [
-      "https://source.unsplash.com/800x600/?student-room",
-      "https://source.unsplash.com/800x600/?student-room"
-    ],
+    "pictures": "./img/img.jpg",
     "tags": ["Pratique", "\u00c9conomique"],
     "host": {
       "name": "Anna Petit",
@@ -170,10 +143,7 @@
     "id": "c10",
     "title": "Chalet alpin \u00e0 Chamonix",
     "location": "Chamonix, France",
-    "pictures": [
-      "https://source.unsplash.com/800x600/?chalet",
-      "https://source.unsplash.com/800x600/?chalet"
-    ],
+    "pictures": "./img/img.jpg",
     "tags": ["Ski", "Montagne"],
     "host": {
       "name": "Olivier Roche",
@@ -187,10 +157,7 @@
     "id": "c11",
     "title": "Appartement chic \u00e0 Paris",
     "location": "Paris, France",
-    "pictures": [
-      "https://source.unsplash.com/800x600/?paris",
-      "https://source.unsplash.com/800x600/?paris"
-    ],
+    "pictures": "./img/img.jpg",
     "tags": ["Tour Eiffel", "Design"],
     "host": {
       "name": "Nina Garnier",
@@ -204,10 +171,7 @@
     "id": "c12",
     "title": "Maison familiale \u00e0 Nantes",
     "location": "Nantes, France",
-    "pictures": [
-      "https://source.unsplash.com/800x600/?garden",
-      "https://source.unsplash.com/800x600/?garden"
-    ],
+    "pictures": "./img/img.jpg",
     "tags": ["Famille", "Jardin"],
     "host": {
       "name": "Pauline Marchand",
@@ -221,10 +185,7 @@
     "id": "c13",
     "title": "Appartement minimaliste \u00e0 Montpellier",
     "location": "Montpellier, France",
-    "pictures": [
-      "https://source.unsplash.com/800x600/?minimalist",
-      "https://source.unsplash.com/800x600/?minimalist"
-    ],
+    "pictures": "./img/img.jpg",
     "tags": ["Minimaliste", "Clair"],
     "host": {
       "name": "Tom Besson",
@@ -238,10 +199,7 @@
     "id": "c14",
     "title": "Riad traditionnel \u00e0 Marrakech",
     "location": "Marrakech, Maroc",
-    "pictures": [
-      "https://source.unsplash.com/800x600/?morocco",
-      "https://source.unsplash.com/800x600/?morocco"
-    ],
+    "pictures": "./img/img.jpg",
     "tags": ["Exotique", "Traditionnel"],
     "host": {
       "name": "Yasmine A\u00eft",
@@ -255,10 +213,7 @@
     "id": "c15",
     "title": "Cabane sur pilotis \u00e0 Arcachon",
     "location": "Arcachon, France",
-    "pictures": [
-      "https://source.unsplash.com/800x600/?arcachon",
-      "https://source.unsplash.com/800x600/?arcachon"
-    ],
+    "pictures": "./img/img.jpg",
     "tags": ["Original", "Nature"],
     "host": {
       "name": "Jean-Pierre No\u00ebl",
@@ -272,10 +227,7 @@
     "id": "c16",
     "title": "Appartement r\u00e9tro \u00e0 Toulouse",
     "location": "Toulouse, France",
-    "pictures": [
-      "https://source.unsplash.com/800x600/?retro",
-      "https://source.unsplash.com/800x600/?retro"
-    ],
+    "pictures": "./img/img.jpg",
     "tags": ["Vintage", "Charmant"],
     "host": {
       "name": "Laura Perrin",

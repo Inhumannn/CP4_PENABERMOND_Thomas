@@ -22,8 +22,21 @@
       }
     }
   }
+  ul {
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    justify-items: start;
+    gap: 12px;
+    li::before {
+      content: "✔️​";
+      margin-right: 7px;
+    }
+  }
 }
-
+#radix-«r1» > div > span::before {
+  content: "🏡​​";
+  margin-right: 7px;
+}
 .profil {
   padding: $space-xs 30px 0px;
   display: flex;

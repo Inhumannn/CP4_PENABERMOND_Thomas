@@ -1,3 +1,4 @@
+import { Carousels } from "@/components/carousel";
 import { Footer } from "@/components/footer";
 import { Header } from "@/components/header";
 import {
@@ -8,7 +9,6 @@ import {
 } from "@/components/ui/accordion";
 import { Avatar, AvatarFallback, AvatarImage } from "@/components/ui/avatar";
 import { Badge } from "@/components/ui/badge";
-import { Carousel } from "@/components/ui/carousel";
 import { useEffect, useState } from "react";
 import { useParams } from "react-router-dom";
 import "../styles/pages/detail.scss";
@@ -52,7 +52,7 @@ export function Detail() {
       <Header />
       <main id="detail">
         <section>
-          <Carousel />
+          <Carousels />
           <div>
             <h2>{logement.title}</h2>
             <p>{logement.location}</p>
@@ -80,11 +80,17 @@ export function Detail() {
           <div>
             <Accordion type="single" collapsible>
               <AccordionItem value="desc">
-                <AccordionTrigger>Description</AccordionTrigger>
-                <AccordionContent>{logement.description}</AccordionContent>
+                <AccordionTrigger>
+                  <p>Description</p>
+                </AccordionTrigger>
+                <AccordionContent>
+                  <span>{logement.description}</span>
+                </AccordionContent>
               </AccordionItem>
               <AccordionItem value="equip">
-                <AccordionTrigger>Équipements</AccordionTrigger>
+                <AccordionTrigger>
+                  <p>Équipements</p>
+                </AccordionTrigger>
                 <AccordionContent>
                   <ul>
                     {logement.equipments.map((eq, i) => (

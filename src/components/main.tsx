@@ -7,7 +7,7 @@ type Logement = {
   id: string;
   title: string;
   location: string;
-  pictures: string[];
+  pictures: string;
   tags: string[];
   host: {
     name: string;
@@ -44,7 +44,7 @@ export function Main() {
             <Link to={`/detail/${logement.id}`} key={logement.id}>
               <article className="card" key={id}>
                 <div>
-                  <img src="" alt={logement.title} />
+                  <img src={logement.pictures} alt={logement.title} />
                 </div>
                 <div>
                   <h3>{logement.title}</h3>
