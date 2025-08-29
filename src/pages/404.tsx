@@ -1,17 +1,15 @@
 import { Link } from "react-router-dom";
-import "../styles/pages/404.scss";
 
 export function Custom404() {
   return (
     <main id="notfound">
       <section>
         <div className="notfound-container">
-          <h1>
-            404 <br /> Page Not Found
-          </h1>
-          <p>The page you're looking for doesn't exist or has been moved.</p>
+          <h1>404</h1>
+          <h2>Page non trouvé</h2>
+          <p>La page que vous recherchez n'existe pas ou a été déplacée.</p>
           <button className="notfound-button">
-            <Link to="/">Back To Home</Link>
+            <Link to="/">Revenir à la page home</Link>
           </button>
         </div>
       </section>

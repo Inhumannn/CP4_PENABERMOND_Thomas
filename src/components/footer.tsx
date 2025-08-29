@@ -121,7 +121,18 @@ export function Footer() {
         </div>
         <div>
           <Separator orientation="vertical" />
-          <p>© 2024 Kasa. Tous droits réservés.</p>
+          <p>
+            © 2025{" "}
+            <Button
+              variant="link"
+              style={{ color: "#D1D5DB", padding: "12px 12px 12px 0px" }}
+            >
+              <Link to="https://thmsfolio.vercel.app/">
+                Thomas PENA--BERMOND.
+              </Link>
+            </Button>
+            Tous droits réservés.
+          </p>
         </div>
       </div>
     </footer>

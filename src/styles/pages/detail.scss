@@ -1,7 +1,3 @@
-@import "../base/reset.scss";
-@import "../layout/header.scss";
-@import "../layout/footer.scss";
-
 #detail {
   section {
     max-width: 897px;
@@ -49,4 +45,12 @@
 }
 .border-b {
   margin: 12px 0px;
+}
+
+@media screen and (max-width: 979px) {
+  #detail > section > div.w-full > div > button {
+    display: none !important;
+  }
+}
+@media screen and (max-width: 767px) {
 }
